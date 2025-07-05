@@ -1,0 +1,5 @@
+https://terraria.fandom.com/wiki/Projectile_IDs //All projectile IDs
+
+https://forums.terraria.org/index.php?threads/template-sprites.11799/ //Color codes and templates
+
+https://terraria.wiki.gg/wiki/Sound_IDs //All sound IDs

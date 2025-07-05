@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQpOyr1pdkM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nando\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NanosEarlyGameExpansion\\NanosEarlyGameExpansion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nando\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

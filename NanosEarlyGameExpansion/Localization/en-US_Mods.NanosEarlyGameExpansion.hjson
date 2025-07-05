@@ -1,0 +1,16 @@
+Items: {
+	StoneSword: {
+		Tooltip: ""
+		DisplayName: Stone Sword
+	}
+
+	DemonStaff: {
+		Tooltip: ""
+		DisplayName: Demon Staff
+	}
+
+	LeaflineRifle: {
+		Tooltip: ""
+		DisplayName: Leafline Rifle
+	}
+}
